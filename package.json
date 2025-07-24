@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Backend server for Jarvis virtual assistant",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
@@ -11,6 +10,6 @@
     "axios": "^1.11.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^2.6.7"
   }
 }
